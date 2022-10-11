@@ -1,0 +1,19 @@
+{
+  "name": "upgrad-crm-notif",
+  "version": "1.0.0",
+  "description": "Notification microservice for CRM application to offload the work of sending emails.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notification",
+    "email"
+  ],
+  "author": "Santosh Kumar <https://santoshk.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.2"
+  }
+}
